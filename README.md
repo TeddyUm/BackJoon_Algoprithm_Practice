@@ -1,5 +1,5 @@
 # BackJoon_Algoprithm_Practice
-<img src="https://pandorafms.com/blog/wp-content/uploads/2018/05/what-is-an-algorithm-featured.png" alt="Algorithm" width:150px>
+<img src="https://pandorafms.com/blog/wp-content/uploads/2018/05/what-is-an-algorithm-featured.png" alt="Algorithm" width="200" height="100">
 <p>These are for algorithm practice.</p>
 Language : Korean <br>
 Programming language : c++ <br>
